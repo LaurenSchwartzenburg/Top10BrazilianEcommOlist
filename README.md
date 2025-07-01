@@ -18,7 +18,7 @@ Sources: a cleaned dataset representing orders, sellers, and logistics.
 `olist_sellers_dataset.csv`
 
 ## Live Dashboards
-- [View Tableau Dashboard]([https://public.tableau.com/app/profile/lauren.schwartzenburg/viz/PalmerPenguinsAntarctica/DashboardMain?publish=yes](https://public.tableau.com/views/BrazillianE-Comm/BrazilianE-CommInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [View Tableau Dashboard](https://public.tableau.com/views/BrazillianE-Comm/BrazilianE-CommInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ![Tableau Dashboard Preview](Top10_BrazilOlist.png)
